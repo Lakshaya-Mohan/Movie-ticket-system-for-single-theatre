@@ -16,11 +16,6 @@ meow.sql - this contains the oracle sql code for the booking system
 meow.py - this contains the python code ,that is connected to oracle  
 (use these files together)
 
-# ATTENTION: This repo contains two different ways of doing the same project- Oracle and design patterns  
-
-# project using design patterns and csv  
-movies_pdp - this is a movie_ticket booking system built using python design patterns and csv files.  
-
 
 # oracle output
 this is how the frontend will look when you use meow.sql and meow.py:
@@ -53,6 +48,11 @@ this is how the frontend will look when you use meow.sql and meow.py:
 
 ![image](https://github.com/user-attachments/assets/da3abcfd-3e1c-4178-b7e9-73b3644e14f3)
 ![image](https://github.com/user-attachments/assets/774223d8-905d-49f8-bd27-b60b4b69a7f4)
+
+
+
+# project using design patterns and csv  
+movies_pdp - this is a movie_ticket booking system built using python design patterns and csv files.  
 
 
 # design patterns output  
