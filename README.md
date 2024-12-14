@@ -53,6 +53,12 @@ this is how the frontend will look when you use meow.sql and meow.py:
 
 # project using design patterns and csv  
 movies_pdp - this is a movie_ticket booking system built using python design patterns and csv files.  
+users.csv - contains information about users
+seats.csv - seat info
+bookings.csv - bookings info
+movies.csv - movies info
+shows.csv - shows info
+
 
 
 # design patterns output  
