@@ -1,5 +1,4 @@
 This repo consists of a movie ticket booking system for a single theatre made using oracle as backend and python tkinter as frontend.
-## ATTENTION: This repo contains two different ways of doing the same project- Oracle and design patterns   
 
 # software requirements 
 python - https://www.python.org/downloads/  
