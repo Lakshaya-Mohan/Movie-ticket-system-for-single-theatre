@@ -1,4 +1,4 @@
-This repo consists of a movie ticket booking system for a single theatre made using oracle as backend and python tkinter as frontend. I have also attached another code for this without the help of sql and this makes use of python design patterns.
+This repo consists of a movie ticket booking system for a single theatre made using oracle as backend and python tkinter as frontend.
 ## ATTENTION: This repo contains two different ways of doing the same project- Oracle and design patterns   
 
 # software requirements 
@@ -50,19 +50,4 @@ this is how the frontend will look when you use meow.sql and meow.py:
 ![image](https://github.com/user-attachments/assets/774223d8-905d-49f8-bd27-b60b4b69a7f4)
 
 
-
-# project using design patterns and csv  
-movies_pdp - this is a movie_ticket booking system built using python design patterns and csv files.  
-users.csv - contains information about users
-seats.csv - seat info
-bookings.csv - bookings info
-movies.csv - movies info
-shows.csv - shows info
-
-
-
-# design patterns output  
-I will attach the pdf for how the pdp project will look like:  
-
-[PDP_report.pdf](https://github.com/user-attachments/files/18135379/PDP_report.pdf)
 
